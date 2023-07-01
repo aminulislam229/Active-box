@@ -1,0 +1,188 @@
+@media (min-width: 1400px) {
+    .proposol-con {
+        padding: 75px 45px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .proposol-con {
+        padding: 31px 45px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1999px) {
+    .header h1 {
+        font-size: 45px;
+    }
+    .header p {
+        font-size: 20px;
+    }
+
+    .work-con p {
+        font-size: 13px;
+    }
+
+    .project-main-con {
+        padding: 35px 0;
+    }
+
+    .team-main-con {
+        padding: 35px 0;
+    }
+    .team-con p {
+        font-size: 11px;
+    }
+    .team-icon i {
+        font-size: 15px;
+    }
+
+    .download-main-con {
+        padding: 60px 0;
+    }
+
+    .contact-con p {
+        font-size: 12px;
+    }
+    .proposol-con {
+        padding: 9px 45px;
+    }
+    .proposol-con h2 {
+        font-size: 28px;
+        padding: 25px 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header p {
+        font-size: 15px;
+    }
+
+    .contact-con p {
+        font-size: 8px;
+    }
+    .team-con {
+        text-align: center;
+    }
+    .team-con ul {
+        justify-content: center;
+    }
+    .proposol-con h2 {
+        font-size: 19px;
+        line-height: 31px;
+        padding-bottom: 8px;
+    }
+    .proposol-con {
+        background-color: #533549;
+        padding: 7px 45px;
+        width: 100%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .header h1 {
+        font-size: 35px;
+    }
+
+    .work-con p {
+        font-size: 11px;
+    }
+
+    .team-icon i {
+        font-size: 9px;
+        padding: 8px 10px;
+    }
+    .contact-con p {
+        font-size: 6px;
+    }
+    .contact-con p {
+        font-size: 9px;
+    }
+    .contact-main-con {
+        padding: 35px 0;
+    }
+    .download-con h2 {
+        font-size: 22px;
+    }
+    .download-con .btn-danger {
+        font-size: 11px;
+        padding: 8px 19px;
+    }
+    .proposol-con h2 {
+        font-size: 15px;
+        line-height: 23px;
+        padding-bottom: 2px;
+    }
+    .proposol-con p {
+        font-size: 10px;
+        padding-bottom: 0;
+    }
+    .proposol-con {
+        padding: 10px 45px;
+    }
+    .team-con p {
+        font-size: 13px;
+    }
+    .header p {
+        font-size: 21px;
+        padding-bottom: 15px;
+    }
+    .header h1 {
+        font-size: 32px;
+    }
+    .team-con ul {
+        justify-content: center;
+    }
+    .team-con {
+        text-align: center;
+    }
+}
+
+@media (max-width: 575px) {
+    .contact-con p {
+        font-size: 12px;
+    }
+
+    .footer-con p {
+        font-size: 10px;
+    }
+
+    .download-con h2 {
+        font-size: 24px;
+    }
+
+    .work-con p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .work-main-con {
+        padding: 60px 0 35px;
+    }
+
+    .header h1 {
+        font-size: 23px;
+        padding-bottom: 5px;
+    }
+
+    .header p {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .team-con ul {
+        justify-content: center;
+    }
+    .team-con {
+        text-align: center;
+    }
+    .proposol-con h2 {
+        font-size: 21px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+    .proposol-con {
+        padding: 24px 45px;
+    }
+    .proposol-con p {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+}
